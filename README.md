@@ -1,4 +1,4 @@
-#Springboot Calculator RESTFul Web Service
+# Springboot Calculator RESTFul Web Service
 Simple calculator micro service. Created by Springboot.
 ## Prerequisite
 - JDK version 11, AdoptJDK HotSpot is recommended
