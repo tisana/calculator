@@ -1,7 +1,7 @@
 # Springboot Calculator RESTFul Web Service
 Simple calculator micro service. Created by Springboot.
 ## Prerequisite
-- JDK version 11, AdoptJDK HotSpot is recommended
+- JDK version 11, Eclipse Temurin is recommended
 ## Instruction
 Create a RESTful services as a simple calculator. It should support basic operation including
 - Add
